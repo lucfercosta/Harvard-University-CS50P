@@ -1,4 +1,4 @@
-This repository contains my solutions and projects for . The course teaches Python programming fundamentals, problem-solving, and practical applications.
+This repository contains my solutions and projects for CS50's Introduction to Programming with Python (CS50P) . The course teaches Python programming fundamentals, problem-solving, and practical applications.
 
 📚 Course Overview
 
